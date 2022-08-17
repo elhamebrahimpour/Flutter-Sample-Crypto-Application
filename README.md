@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/Flutter-Sample-Crypto-Application/master/crypto_app.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
