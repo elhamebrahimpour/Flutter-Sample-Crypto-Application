@@ -1,6 +1,18 @@
-# crypto_v1
+# Crypto Application
+This is the simple android application in flutter as well as we can use this code to get the output for ios and web platforms.
 
-A new Flutter project.
+☑️Coincap Api
+☑️Search Action
+☑️Updating Prices
+☑️Dark/Light Theme
+
+Used packages in the app:
+
+✅ Loading animation
+✅ Provider
+✅ url_launcher
+✅ spark_line
+
 
 ![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/Flutter-Sample-Crypto-Application/master/crypto_app.jpg)
 
